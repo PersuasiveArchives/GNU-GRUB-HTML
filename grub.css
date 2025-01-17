@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'DejaVu Sans Mono', monospace;
+    text-align: center;
+}
+div.bootbox {
+    background-color: none;
+    border: 1px solid grey;
+    padding: 9px;
+}
+
+
+li{
+    list-style-type: none;
+    font-family: 'DejaVu Sans Mono', monospace;
+    text-align: left;
+}
+li:hover{
+    background-color: grey;
+    display: block;
+}
+
+p{
+    font-family: 'DejaVu Sans Mono', monospace;
+}
